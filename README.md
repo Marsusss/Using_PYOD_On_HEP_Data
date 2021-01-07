@@ -22,8 +22,3 @@ investigate the behaviour of bg and sig.
 Then use "ML -  clean.ipynb" to traind and test neural network methods on the
 data. Change hyper-parameters while calling the VAE and MLP-functions to find
 the optimal destinguishing between sig and bg.
-
-
-
-
-Extract_1l_2j_HT100.ipynb Extrac
