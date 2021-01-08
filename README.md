@@ -2,11 +2,13 @@
 
 
 Purpose
+
 These notebooks will enable you to plot distributions and use NN methods from
 PYOD and Scikit-learn libraries on HEP-data from https://zenodo.org/record/3961917#.X_doyzSSmUn.
 
 
 Usage
+
 To use these notebooks you must download a dataset from https://zenodo.org/record/3961917#.X_doyzSSmUn
 or something with the same buildup.
 
